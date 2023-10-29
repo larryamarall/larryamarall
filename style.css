@@ -49,7 +49,7 @@ a{
    
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 801px) {
    body{
       background-color:white;
    } 
